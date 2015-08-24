@@ -1,5 +1,5 @@
-IoT_Airlock
-===========
+IoT_Weight_for_Treats
+=====================
 
 Code used for the IoT series ("Fellowship of the Things") episode 2.
 
